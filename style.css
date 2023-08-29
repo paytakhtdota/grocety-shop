@@ -4,7 +4,7 @@ body {
     background-image: url("assets/body-image-bg.png");
     background-repeat: repeat;
     background-attachment: fixed;
-    
+
 }
 
 header>img {
@@ -81,15 +81,16 @@ a:hover {
 .sections {
     width: 1024px;
     height: 500px;
-    outline: 2px solid rgba(126, 184, 255,0.4);
+    outline: 2px solid rgba(126, 184, 255, 0.4);
     display: block;
     margin: 25px auto;
     padding-top: 10px;
-    
-    
-   
+
+
+
 
 }
+
 .section-title {
     height: 60px;
     width: 900px;
@@ -99,27 +100,28 @@ a:hover {
     font-family: 'Cabin Sketch', cursive;
     font-size: 3em;
 }
-.first-container{
+
+.first-container {
     height: 400px;
     width: 300px;
     background-color: #ffffff77;
     display: inline-block;
     float: left;
     margin: 0 31px 0 31px;
-    
+
 
 }
 
-.first-container:hover{
+.first-container:hover {
     background-color: #ffffffc9;
-   box-shadow: 0px 0px 35px 10px rgba(0,0,5,0.3);
-   border: 1px solid black;
-   margin: 0 30px 0 30px;
-    
+    box-shadow: 0px 0px 35px 10px rgba(0, 0, 5, 0.3);
+    border: 1px solid black;
+    margin: 0 30px 0 30px;
+
 
 }
 
-.second-container{
+.second-container {
     height: 400px;
     width: 300px;
     background-color: #ffffff7f;
@@ -127,14 +129,16 @@ a:hover {
     float: left;
     margin: 0 31px 0 0;
 }
-.second-container:hover{
+
+.second-container:hover {
     background-color: #ffffffc9;
-   box-shadow: 0px 0px 35px 10px rgba(0,0,5,0.3);
-   border: 1px solid black;
-   margin: 0 29px 0 0;
-    
+    box-shadow: 0px 0px 35px 10px rgba(0, 0, 5, 0.3);
+    border: 1px solid black;
+    margin: 0 29px 0 0;
+
 }
-.third-container{
+
+.third-container {
     height: 400px;
     width: 300px;
     background-color: #ffffff7f;
@@ -142,24 +146,28 @@ a:hover {
     margin: 0 31px 0 0;
 
 }
-.third-container:hover{
+
+.third-container:hover {
     background-color: #ffffffc9;
-   box-shadow: 0px 0px 35px 10px rgba(0,0,5,0.3);
-   border: 1px solid black;
-   margin: 0 29px 0 0;
-    
+    box-shadow: 0px 0px 35px 10px rgba(0, 0, 5, 0.3);
+    border: 1px solid black;
+    margin: 0 29px 0 0;
+
 
 }
-section div > img {
+
+section div>img {
     width: 300px;
     max-height: 180px;
 }
+
 .description {
     font-family: 'Bree Serif', serif;
     font-size: 1em;
     padding: 0 15px 0 15px;
-    text-align:justify;
+    text-align: justify;
 }
-footer > img{
+
+footer>img {
     width: 100%;
 }
